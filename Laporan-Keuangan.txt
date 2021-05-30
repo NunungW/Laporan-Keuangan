@@ -1,0 +1,9 @@
+LAPORAN KEUANGAN
+- Membuat Laporan Keuangan SPP Online dan Offline
+- Membuat Aplikasi Laporan Keuangan SPP Harian
+- Membuat Aplikasi Laporan Keuangan SPP Bulanan
+- Membuat Aplikasi Laporan Keuangan SPP Tahunan
+- Menampilkan Presentase Siswa yang Bayar SPP dan Tidak Setiap Saat
+- Membuat Nama Donatur dan Siswa yg menerima Dana Donatur
+- Membuat Kolom Infaq Siswa
+- Mengeprint dan Menjilid Laporan SPP Bulanan disertai dengan nota dan kwitansi
